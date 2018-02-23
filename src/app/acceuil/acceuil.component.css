@@ -1,0 +1,84 @@
+ .intro-heading 
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100px;
+    text-align: center;
+    margin-bottom: 20px;
+  
+}
+
+.btn-xl {
+    color: #122f4c;
+    background-color: #74fdcb;
+    border-color: #74fdcb;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 13px;
+    padding: 14px 20px;
+}
+
+.ikenna
+{
+     background-color:  #F0F8FF;
+    height: 570px;
+    text-align: center;
+}
+
+.a
+{
+    
+    margin-top: -22px;
+}
+
+.c
+{
+  
+    font-family: "Playfair Display", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 25px;
+    text-transform: normal;
+    font-weight: normal;
+}
+
+ .luc 
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 69px;
+    text-align: center;
+    margin-bottom: 20px;
+  
+}
+
+.texte
+
+{
+   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 69px;
+    text-align: center;
+    margin-bottom: 20px; 
+    
+}
+
+
+@media screen and (max-width: 1200px ){
+.ikenna[_ngcontent-c1] {
+    background: url(https://www.xmple.com/wallpaper/linear-white-gradient-blue-highlight-3200x1800-c2-ffffff-87cefa-l-67-a-60-f-21.svg);
+    height: 961px;
+    text-align: center;
+}
+}
+
+    

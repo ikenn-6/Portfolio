@@ -1,0 +1,401 @@
+.ikenna
+{
+    background-color: #F0F8FF;
+    height: 100%;
+    text-align: center;
+}
+
+.a
+{
+    
+    margin-top: -22px;
+}
+
+
+.projets
+
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 51px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn-xl[_ngcontent-c1][_ngcontent-c1] {
+    color: #122f4c;
+    background-color: #74fdcb;
+    border-color: #74fdcb;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 10px;
+    margin-left: -47%;
+    position: absolute;
+    margin-top: 85px;
+    padding: 14px 20px;
+}
+
+img {
+       vertical-align: middle;
+margin-top: -13px;
+margin-left: -9px;
+}
+
+
+.card-title[_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 3%;
+    margin-top: -2px;
+    position: absolute;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.card-text[_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 3%;
+    margin-top: 29px;
+    font-size: 17px;
+    position: absolute;
+    text-align: initial;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+
+
+
+ /* Container needed to position the overlay. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+/* Make the image to responsive */
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.overlay[_ngcontent-c1] {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 103%;
+    width: 219%;
+    opacity: 0;
+    transition: .3s ease;
+    background-color: blue;
+    margin-top: -3%;
+    margin-left: -39%;
+}
+
+/* When you mouse over the container, fade in the overlay icon*/
+.container:hover .overlay {
+  opacity: 1;
+}
+
+/* The icon inside the overlay is positioned in the middle vertically and horizontally */
+.icon {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* When you move the mouse over the icon, change color */
+.fa-user:hover {
+  color: #eee;
+} 
+
+.image {
+    height: 43%;
+    width: 236%;
+    margin-left: -46%;
+}
+
+
+
+@media all and (min-width: 0px) and (max-width: 650px)
+{
+
+}
+
+@media all and (min-width: 0px) and (max-width: 650px)
+{
+
+}
+
+@media all and (min-width: 0px) and (max-width: 650px)
+{
+.card-title[_ngcontent-c1][_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 4%;
+    margin-top: -2px;
+    position: absolute;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 20px;
+
+}
+}
+
+@media all and (min-width: 0px) and (max-width: 750px)
+{
+.image[_ngcontent-c1] {
+    
+    height: 44%;
+    margin-top: 35%;
+    width: 319%;
+    margin-left: -217%;
+
+}
+}
+
+@media all and (min-width: 0px) and (max-width: 650px)
+{
+.card-text[_ngcontent-c1][_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 4%;
+    margin-top: 29px;
+    font-size: 10px;
+    position: absolute;
+    
+}
+}
+
+
+
+
+
+
+
+@media all and (min-width: 1024px) and (max-width: 1280px)
+{
+
+}
+
+@media screen and (max-width: 1200px )
+{
+
+}
+
+
+@media screen and (max-width: 1200px )
+{
+
+}
+
+
+@media screen and (max-width: 1200px )
+{
+
+}
+
+
+@media screen and (max-width: 800px )
+{
+.overlay[_ngcontent-c1][_ngcontent-c1] {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 90%;
+    width: 218%;
+    opacity: 0;
+    transition: .3s ease;
+    background-color: blue;
+    margin-top: 15%;
+   margin-left: -130%;
+}
+}
+
+
+@media screen and (max-width: 800px )
+{
+.ikenna[_ngcontent-c1] {
+    background-color: #F0F8FF;
+    height: 1143px;
+    text-align: center;
+}
+}
+
+
+@media screen and (max-width: 1200px )
+{
+.container[_ngcontent-c1] {
+    position: relative;
+width: 22%;
+max-width: 400px;
+margin-left: 310px;
+}
+}
+
+@media screen and (max-width: 1200px )
+{
+.btn-xl[_ngcontent-c1][_ngcontent-c1] {
+    color: #122f4c;
+    background-color: #74fdcb;
+    border-color: #74fdcb;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 10px;
+    margin-left: -46%;
+    position: absolute;
+    margin-top: 85px;
+    padding: 14px 20px;
+}
+}
+
+@media screen and (max-width: 1200px )
+{
+.card-text[_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 4%;
+    margin-top: 29px;
+    font-size: 17px;
+    position: absolute;
+    text-align: initial;
+}
+}
+
+@media screen and (max-width: 1200px )
+{
+.card-title[_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 4%;
+    margin-top: -2px;
+    position: absolute;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+}
+
+
+
+
+
+@media screen and (max-width: 700px )
+{
+.btn-xl[_ngcontent-c1][_ngcontent-c1] {
+    color: #122f4c;
+    background-color: #74fdcb;
+    border-color: #74fdcb;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 10px;
+    margin-left: -46%;
+    position: absolute;
+    margin-top: 85px;
+    padding: 14px 20px;
+}
+}
+
+@media screen and (max-width: 700px )
+{
+.card-text[_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 4%;
+    margin-top: 29px;
+    font-size: 17px;
+    position: absolute;
+    text-align: initial;
+}
+}
+
+@media screen and (max-width: 700px )
+{
+.card-title[_ngcontent-c1][_ngcontent-c1] {
+    margin-left: 4%;
+    margin-top: -2px;
+    position: absolute;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+}
+
+
+@media all and (min-width: 428px) and (max-width: 750px)
+{
+
+}
+
+
+@media all and (min-width: 428px) and (max-width: 750px)
+{
+
+}
+
+@media all and (min-width: 428px) and (max-width: 750px)
+{
+
+}
+
+@media all and (min-width: 1024px) and (max-width: 1280px)
+{
+
+}
+
+@media all and (min-width: 1024px) and (max-width: 1280px)
+{
+
+}

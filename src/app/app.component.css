@@ -1,0 +1,146 @@
+.footer
+{
+    background-color: gray;
+
+    text-align: center;
+    padding: 25px;
+
+    width: 100%;
+    margin-bottom: -1px;
+    
+
+         opacity : 0.5;
+     
+          
+          position: fixed;
+  
+    bottom: 0;
+  
+}
+   
+
+
+
+.bg-faded {
+    background-color: #222;
+}
+
+a:not([href]):not([tabindex]) {
+    color: white;
+    text-decoration: none;
+    margin-left: 82px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open > .nav-link {
+    color: white;
+}
+
+.navbar-brand
+{
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+@media screen and (max-width: 800px)
+
+{
+    
+  a[_ngcontent-c0]:not([href]):not([tabindex]) {
+
+    color: white;
+    text-decoration: none;
+    margin-left: -8%;
+    font-size: 18px;
+
+}  
+}
+
+.navbar-light .navbar-toggler {
+    background: white;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 800px)
+
+{
+    
+}
+
+@media screen and (max-width: 800px)
+
+{
+    
+}
+
+@media screen and (max-width: 1000px)
+
+{
+    .navbar-nav[_ngcontent-c0] {
+    padding-left: 336;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left: 2%;
+}
+}
+
+@media screen and (max-width: 280px)
+
+{
+    a[_ngcontent-c0][_ngcontent-c0][_ngcontent-c0]:not([href]):not([tabindex]) {
+
+    color: white;
+    text-decoration: none;
+    margin-left: -4%;
+    font-size: 16px;
+
+}
+}
+
+@media screen and (max-width: 280px)
+
+{
+.navbar-light[_ngcontent-c0] .navbar-toggler[_ngcontent-c0] {
+
+    background: white;
+    font-size: 12px;
+    margin-top: 42px;
+
+}    
+}
+
+@media screen and (max-width: 800px)
+
+{
+   
+    a[_ngcontent-c0][_ngcontent-c0]:not([href]):not([tabindex]) {
+    color: white;
+    text-decoration: none;
+    margin-left: 1%;
+    font-size: 18px;
+}
+}
+
+
+.navbar-nav {
+
+   
+    padding-left: 336;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left: 326px;
+
+}
+
+@media screen and (max-width: 1200px)
+{
+.navbar-nav[_ngcontent-c0] {
+    padding-left: 336;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left: 32px;
+}
+}
+    
